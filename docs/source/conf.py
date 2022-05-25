@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'DCN-DOC'
+copyright = '2021, Huarong'
+author = 'Huarong'
 
 release = '0.1'
 version = '0.1.0'
