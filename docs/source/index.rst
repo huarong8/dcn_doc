@@ -14,24 +14,8 @@ DCN链介绍
    :maxdepth: 1
    :caption:  DCN链开发文档:
    :glob:
-
-   app/dcn_intro
-
    
-.. toctree::
-   :maxdepth: 0
-   :caption:  DCN链工具:
-   :titlesonly:
-   :glob:
-
-   tools/*
-
-.. toctree::
-   :maxdepth: 0
-   :caption:  DCN链社区:
-   :titlesonly:
-   :glob:
-
-   DCN链 Github <https://github.com/xxxx>
+   app/dcn_intro
+   app/dcn_sdk
    community/dev
  

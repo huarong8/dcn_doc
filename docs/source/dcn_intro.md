@@ -1,4 +1,4 @@
-# DCN（Digital Collector Network）介绍
+# DCN介绍
 
 Digital Collector Network是联盟链区块链网络。DCN联盟链发展深受国内知名数字文创IP方支持，可被广泛应用于数字艺术品凭证、知识产权凭证以及任何需要流转数据/文件的领域。
 
