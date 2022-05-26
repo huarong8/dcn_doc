@@ -14,7 +14,7 @@ DCN链现在支持javascript, solidity两种语言的智能合约。
 
 ### 1.2 DCN链SDK
 
-DCN链目前提供了Golang语言的SDK [Github链接](https://github.com/xxx), 方便开发者程序与链上交互.
+DCN链目前提供了Golang语言的SDK [Github链接](https://github.com/huarong8/dcn_sdk), 方便开发者程序与链上交互.
 
 SDK提供功能包括:
 
