@@ -17,7 +17,6 @@ DCN链介绍
    
    app/dcn_intro
    app/dcn_sdk
-   app/dcn_explorer
    app/dcn_contract
    community/dev
  
